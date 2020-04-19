@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1587294009 source:d:\cpp\testmvc\main.cpp
+	<iostream>
+	<vector>
+	"controller.h"
+	"view.h"
+	"model.h"
+
+1587294174 d:\cpp\testmvc\controller.h
+	<iostream>
+	<vector>
+	"model.h"
+	"view.h"
+
+1587294055 d:\cpp\testmvc\view.h
+	<vector>
+
+1587294139 d:\cpp\testmvc\model.h
+	<cstring>
+	<vector>
+	<fstream>
+
